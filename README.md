@@ -1,6 +1,6 @@
 # 🏦 Bank Customer Churn Analysis
 
-
+BANKING CHURN ANALYSIS
 
 \## 📌 Project Overview
 
